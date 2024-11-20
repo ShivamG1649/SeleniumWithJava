@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/BreakAndContinueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/IfAndElseConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/SwitchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/WhileLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shutterfly/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shutterlyV1/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shutterlyV1/Main.java" afterDir="false" />
+    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +44,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/java/java_Learning/shutterfly_Automation",
     "onboarding.tips.debug.path": "E:/java/WebAutomation/SeleniumProjects/Cucumber_based/Java_learning/src/main/java/shutterlyV1/Main.java",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RunManager" selected="Application.StringDemo">
@@ -145,7 +132,31 @@
       <option name="presentableId" value="Default" />
       <updated>1731552920955</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1732089520101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732089520101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
