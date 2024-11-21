@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/GitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/Demo1212.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20-11-2024_14_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20-11-2024_14_02__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Maruthi" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.SwitchDemo" />
-        <item itemvalue="Application.BreakAndContinueDemo" />
-        <item itemvalue="Application.IfAndElseConditions" />
         <item itemvalue="Application.WhileLoopDemo" />
+        <item itemvalue="Application.SwitchDemo" />
+        <item itemvalue="Application.StringDemo" />
+        <item itemvalue="Application.IfAndElseConditions" />
+        <item itemvalue="Application.BreakAndContinueDemo" />
       </list>
     </recent_temporary>
   </component>
