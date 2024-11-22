@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Assignment done&#10;1)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/TestDemo.java" afterDir="false" />
+    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Assignment done&#10;1)Commited">
+      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/FirstTestCase1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732160549666</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Assignment done&#10;1)Commited">
+      <option name="closed" value="true" />
+      <created>1732243331492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732243331492</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +208,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Assignment done&#10;1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment done&#10;1)" />
+    <MESSAGE value="Assignment done&#10;1)Commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment done&#10;1)Commited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
