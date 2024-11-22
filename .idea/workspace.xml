@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/Demo1212.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20-11-2024_14_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20-11-2024_14_02__Changes_.xml" afterDir="false" />
+    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Assignment done&#10;1)Commited">
+      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/FirstTestCase1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,38 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Bank.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BreakAndContinueDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.IfAndElseConditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoopDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/java/java_Learning/shutterfly_Automation&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/java/WebAutomation/SeleniumProjects/Cucumber_based/Java_learning/src/main/java/shutterlyV1/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bank.executor": "Debug",
+    "Application.BreakAndContinueDemo.executor": "Run",
+    "Application.IfAndElseConditions.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.StringDemo.executor": "Run",
+    "Application.SwitchDemo.executor": "Run",
+    "Application.TestDemo.executor": "Run",
+    "Application.WhileLoopDemo.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/java/java_Learning/shutterfly_Automation",
+    "onboarding.tips.debug.path": "E:/java/WebAutomation/SeleniumProjects/Cucumber_based/Java_learning/src/main/java/shutterlyV1/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
-  <component name="RunManager" selected="Application.StringDemo">
+}]]></component>
+  <component name="RunManager" selected="Application.TestDemo">
     <configuration name="BreakAndContinueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basiscPrograming.BreakAndContinueDemo" />
-      <module name="Java_learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basiscPrograming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IfAndElseConditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basiscPrograming.IfAndElseConditions" />
       <module name="Java_learning" />
       <extension name="coverage">
         <pattern>
@@ -107,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basiscPrograming.TestDemo" />
+      <module name="Java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basiscPrograming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhileLoopDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basiscPrograming.WhileLoopDemo" />
       <module name="Java_learning" />
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.BreakAndContinueDemo" />
         <item itemvalue="Application.WhileLoopDemo" />
         <item itemvalue="Application.SwitchDemo" />
         <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.IfAndElseConditions" />
-        <item itemvalue="Application.BreakAndContinueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732092445539</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Assignment done&#10;1)">
+      <option name="closed" value="true" />
+      <created>1732160549666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732160549666</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Assignment done&#10;1)Commited">
+      <option name="closed" value="true" />
+      <created>1732243331492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732243331492</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +207,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Assignment done&#10;1)" />
+    <MESSAGE value="Assignment done&#10;1)Commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment done&#10;1)Commited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
