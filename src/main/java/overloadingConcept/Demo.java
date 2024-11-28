@@ -4,7 +4,6 @@ public class Demo {
 // Class members means the variable inside the class and it's methods
        int age;
 
-
 //    void s1(int age)
 //
 //    {
@@ -13,7 +12,7 @@ public class Demo {
 //
 //    }
 
-    void s2(Demo d1)
+    void s2(Demo d1)//reference creation of a class
     {
 
         d1.age =d1.age+10;

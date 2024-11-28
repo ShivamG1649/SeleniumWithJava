@@ -1,25 +1,18 @@
 package overloadingConcept;
 
-public class Rectangle
+public class Rectangle {
+    double width, height, depth;
 
-{
-    double width , height , depth;
+    Rectangle() {
 
-    Rectangle()
-    {
-
-        width = height = depth=0;
-
+        width = height = depth = 0;
     }
 
-    Rectangle(double w , double h , double d)
-
-    {
-        width=w;
-        height=h;
-        depth=d;
+    Rectangle(double w, double h, double d) {
+        width = w;
+        height = h;
+        depth = d;
 
     }
-
 
 }

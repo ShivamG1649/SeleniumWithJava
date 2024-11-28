@@ -5,20 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Assignment done&#10;1)First test cases has been created">
-      <change afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/CallByReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/CallByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/OverloadingMainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/RectangleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/SumMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20-11-2024_14_02_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20-11-2024_14_02__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/overloadingConcept/CallByReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/CallByReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/overloadingConcept/CallByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/CallByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/overloadingConcept/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/overloadingConcept/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/overloadingConcept/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,10 +33,16 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Maruthi" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -62,7 +71,9 @@
     "Application.SwitchDemo.executor": "Run",
     "Application.TestDemo.executor": "Run",
     "Application.WhileLoopDemo.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/java/java_Learning/shutterfly_Automation",
     "onboarding.tips.debug.path": "E:/java/WebAutomation/SeleniumProjects/Cucumber_based/Java_learning/src/main/java/shutterlyV1/Main.java",
@@ -285,11 +296,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/basiscPrograming/FirstTestCase1.java</url>
           <line>56</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/overloadingConcept/CallByValue.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

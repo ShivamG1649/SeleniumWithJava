@@ -9,6 +9,9 @@ public class CallByValue {
       int age = 20;
 
         System.out.println("Before method call"+age);
+       // d.s1(20);
+        System.out.println("After method call"+age );
+
 
     }
 }
