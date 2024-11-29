@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Changes made in CallByReference method1">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/PrimeNumberSita.java" afterDir="false" />
+    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="PrimeNumberSita is added in Basic programming pkg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -248,7 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732906324746</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="PrimeNumberSita is added in Basic programming pkg">
+      <created>1732912233867</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732912233867</updated>
+    </task>
+    <task id="LOCAL-00013" summary="PrimeNumberSita is added in Basic programming pkg">
+      <created>1732912252764</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732912252764</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +294,8 @@
     <MESSAGE value="line2 added" />
     <MESSAGE value="Changes made in CallByReference method" />
     <MESSAGE value="Changes made in CallByReference method1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes made in CallByReference method1" />
+    <MESSAGE value="PrimeNumberSita is added in Basic programming pkg" />
+    <option name="LAST_COMMIT_MESSAGE" value="PrimeNumberSita is added in Basic programming pkg" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
