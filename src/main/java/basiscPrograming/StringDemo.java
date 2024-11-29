@@ -6,7 +6,7 @@ public class StringDemo {
     public static void main(String[] args) {
 
   /*
-
+tett
     In Java, the String class is part of the java.lang package,
      and it is used to represent a sequence of characters.
      Since strings are widely used in programming for manipulating text,
