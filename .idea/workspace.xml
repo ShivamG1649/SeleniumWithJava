@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="line2 added" />
+    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="Changes made in CallByReference method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="sitaGitBranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -217,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732760815176</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changes made in CallByReference method">
+      <created>1732900084558</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732900084558</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +259,8 @@
     <MESSAGE value="Assignment done&#10;1)First test cases has been created" />
     <MESSAGE value="Method overloading concepts" />
     <MESSAGE value="line2 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="line2 added" />
+    <MESSAGE value="Changes made in CallByReference method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes made in CallByReference method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
