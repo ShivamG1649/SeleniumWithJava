@@ -16,7 +16,9 @@ public class SetDemo {
 
         // use for each loop for set similar to list
 
-
+        for (String str:set) {
+            System.out.println(str);
+        }
 
     }
 
