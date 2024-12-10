@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="line2 added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/InheritanceConcept/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InheritanceConcept/HDFCBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/InheritanceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20-11-2024_14_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20-11-2024_14_02__Changes_.xml" beforeDir="false" />
+    <list default="true" id="e6bc9f4f-d263-4f6d-b6a4-ed29315c9bb1" name="Changes" comment="list and interfaces , Abstraction">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPrograms/FindDuplicateInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPrograms/FindFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPrograms/MaximumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewPrograms/SwapTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/MapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_27_2024_8_42_PM_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_27_2024_8_42_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_27_2024_8_42_PM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_27_2024_8_42_PM__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_29_2024_10_56_AM_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_29_2024_10_56_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_29_2024_10_56_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_11_29_2024_10_56_AM__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basiscPrograming/AbstractDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basiscPrograming/AbstractDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +58,15 @@
     "Application.BreakAndContinueDemo.executor": "Run",
     "Application.CallByReference.executor": "Debug",
     "Application.CallByValue.executor": "Debug",
+    "Application.ExceptionDemo.executor": "Run",
+    "Application.FindDuplicateInArray.executor": "Run",
+    "Application.FindFrequency.executor": "Run",
     "Application.FirstTestCase1.executor": "Debug",
     "Application.HDFCBank.executor": "Run",
     "Application.IfAndElseConditions.executor": "Run",
+    "Application.MapDemo.executor": "Run",
+    "Application.MapDemo1.executor": "Run",
+    "Application.MaximumInArray.executor": "Run",
     "Application.OverloadingMainMethod.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.RectangleMain.executor": "Debug",
@@ -67,13 +82,13 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HDFCBank">
-    <configuration name="CallByReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloadingConcept.CallByReference" />
+  <component name="RunManager" selected="Application.ExceptionDemo">
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basiscPrograming.ExceptionDemo" />
       <module name="Java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overloadingConcept.*" />
+          <option name="PATTERN" value="basiscPrograming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloadingConcept.CallByValue" />
+    <configuration name="FindDuplicateInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewPrograms.FindDuplicateInArray" />
       <module name="Java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overloadingConcept.*" />
+          <option name="PATTERN" value="InterviewPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HDFCBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InheritanceConcept.HDFCBank" />
+    <configuration name="FindFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewPrograms.FindFrequency" />
       <module name="Java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InheritanceConcept.*" />
+          <option name="PATTERN" value="InterviewPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadingMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloadingConcept.OverloadingMainMethod" />
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basiscPrograming.MapDemo" />
       <module name="Java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overloadingConcept.*" />
+          <option name="PATTERN" value="basiscPrograming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloadingConcept.RectangleMain" />
+    <configuration name="MapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basiscPrograming.MapDemo1" />
       <module name="Java_learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overloadingConcept.*" />
+          <option name="PATTERN" value="basiscPrograming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HDFCBank" />
-        <item itemvalue="Application.CallByReference" />
-        <item itemvalue="Application.CallByValue" />
-        <item itemvalue="Application.OverloadingMainMethod" />
-        <item itemvalue="Application.RectangleMain" />
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.MapDemo1" />
+        <item itemvalue="Application.FindFrequency" />
+        <item itemvalue="Application.FindDuplicateInArray" />
+        <item itemvalue="Application.MapDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732760815176</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="list and interfaces , Abstraction">
+      <option name="closed" value="true" />
+      <created>1733368974464</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733368974464</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +280,8 @@
     <MESSAGE value="Assignment done&#10;1)First test cases has been created" />
     <MESSAGE value="Method overloading concepts" />
     <MESSAGE value="line2 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="line2 added" />
+    <MESSAGE value="list and interfaces , Abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="list and interfaces , Abstraction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -306,6 +330,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/overloadingConcept/CallByValue.java</url>
           <line>8</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/InterviewPrograms/MaximumInArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/basiscPrograming/MapDemo1.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -3,6 +3,8 @@ package basiscPrograming;
 // Abstraction is a process of hiding the implementation details
 // and showing only functionality to the user.
 
+import java.util.Map;
+
 /*
 
    public abstract class Shape
@@ -25,6 +27,5 @@ package basiscPrograming;
 
  */
 public class AbstractDemo {
-
 
 }
